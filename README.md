@@ -1,2 +1,2 @@
 # M1_ProjectinC
-First Project on Git
+Stepin_Project on github
